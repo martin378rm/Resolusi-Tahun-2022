@@ -1,0 +1,1 @@
+# Resolusi-Tahun-2022
