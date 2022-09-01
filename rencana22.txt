@@ -1,2 +1,3 @@
 - membuat web php
 - membuat web interaktif
+- membuat web responsive
